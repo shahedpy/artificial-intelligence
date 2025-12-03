@@ -1,0 +1,7 @@
+- Problem Solving Based on Reasoning, Uncertainty: Basic Probability Notations, The Axioms of Probability, Bayes’ Rule and it’s Use
+- The semantics of Bayesian Networks, Efficient representation of conditional distributions, Problems solving using Bayesian Network.
+- Introduction to Genetic Algorithms, Genetic Algorithm steps, Problem Solution based on Genetic Algorithm
+- Artificial Neural Network: Introduction, Artificial Neural Network: Examples
+- Artificial Neural Network: Concept of perceptron, Learning Algorithm, AND, OR gate perceptron learning
+- AND, OR gate perceptron learning
+- Real world problem solving
